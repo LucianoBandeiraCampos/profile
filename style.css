@@ -43,7 +43,7 @@ a:hover {
 .card {
   background-color: white;
   padding: 20px;
-  box-shadow: rgb(1, 20, 41);
+  box-shadow: 2px 2px 2px rgb(2, 31, 65);
   border-radius: 10px;
   margin: auto;
 }
